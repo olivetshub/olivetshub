@@ -1,5 +1,3 @@
-## OLIVE TS IoT Hub 👋
-
 # 🚀 OLIVE TS – Smart Solution Division
 <p align="center">
   <img src="./Capture.JPG" width="80%" />
