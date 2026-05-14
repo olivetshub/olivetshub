@@ -1,4 +1,5 @@
 ## OLIVE TS IoT Hub 👋
+<img width="1690" height="660" alt="Capture" src="https://github.com/user-attachments/assets/0b6ecb92-57e8-47a6-bdcf-4ab0388d63be" />
 
 OLIVE TS – Smart Solution Division delivers intelligent, AI-driven IoT systems designed to optimize indoor environments, reduce energy consumption, and enhance operational safety across enterprises.
 
