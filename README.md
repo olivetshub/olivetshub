@@ -7,12 +7,6 @@ OLIVE TS – Smart Solution Division delivers intelligent, AI-driven IoT systems
 
 ### 🔹 OLIVE-TS-HUB – Central Dashboard
 Control panel for all IoT modules showcasing the Real-time monitoring of all products with smart analytics.<br>
-Preview : https://olivetshub.github.io/OLIVE-TS-HUB/
+Preview: https://olivetshub.github.io/OLIVE-TS-HUB/
 
-🔭 I’m currently working on OLIVE TS IoT ecosystem  
-🌱 I’m currently learning AI + IoT integration  
-👯 I’m looking to collaborate on smart automation systems  
-🤔 I’m looking for help with scaling IoT dashboards  
-💬 Ask me about React, IoT systems, MERN stack  
-📫 How to reach me: olivetshub@gmail.com  
-⚡ Fun fact: Building smart parking systems 🚗
+### 🔹 Our Projects
