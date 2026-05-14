@@ -10,3 +10,7 @@ Control panel for all IoT modules showcasing the Real-time monitoring of all pro
 Preview: https://olivetshub.github.io/OLIVE-TS-HUB/
 
 ### 🔹 Our Projects
+AIRPRO
+---
+AirPro, is a unified platform that enables organizations to monitor, control, and automate environmental conditions across distributed facilities through a centralized cloud-based dashboard (Web & Mobile).
+<h3>AirPro Solution for Colleges</h3>
