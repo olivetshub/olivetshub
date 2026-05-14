@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-**olivetshub/olivetshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Olive TS Hub** 
+OLIVE TS – Smart Solution Division delivers intelligent, AI-driven IoT systems designed to optimize indoor environments, reduce energy consumption, and enhance operational safety across enterprises.
 
 Here are some ideas to get you started:
 
